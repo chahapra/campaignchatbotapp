@@ -1,0 +1,2888 @@
+{
+    "PS-UK-iOS": {
+        "click": "https://app.appsflyer.com/id897137765?",
+        "imp": "https://impression.appsflyer.com/id897137765?",
+        "nativeurl": "https://apps.apple.com/GB/app/id897137765?l=en",
+        "appid": "897137765"
+    },
+    "PS-NET-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.net?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.net?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.net"
+    },
+    "PS-RUSOPM-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.rusopm?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.rusopm-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.rusopm"
+    },
+    "FT-NET-iOS": {
+        "click": "https://app.appsflyer.com/id1086625433?",
+        "imp": "https://impression.appsflyer.com/id1086625433?",
+        "nativeurl": "https://apps.apple.com/US/app/id1086625433?l=en",
+        "appid": "1086625433"
+    },
+    "FT-NET-iOS": {
+        "click": "https://app.appsflyer.com/id833485192?",
+        "imp": "https://impression.appsflyer.com/id833485192?",
+        "nativeurl": "",
+        "appid": "833485192"
+    },
+    "PSP-PLAY-Ios": {
+        "click": "https://app.appsflyer.com/id1206905163?",
+        "imp": "https://impression.appsflyer.com/id1206905163?",
+        "nativeurl": "",
+        "appid": "1206905163"
+    },
+    "PSP-PLAY-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.cebo.psp?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.cebo.psp?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.cebo.psp"
+    },
+    "PSP-US-Ios": {
+        "click": "https://app.appsflyer.com/id1206905163?",
+        "imp": "https://impression.appsflyer.com/id1206905163?",
+        "nativeurl": "",
+        "appid": "1206905163"
+    },
+    "PSP-US-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.cebo.psp?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.cebo.psp?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.cebo.psp"
+    },
+    "PSP-AU-iOS": {
+        "click": "https://app.appsflyer.com/id1206905163?",
+        "imp": "https://impression.appsflyer.com/id1206905163?",
+        "nativeurl": "",
+        "appid": "1206905163"
+    },
+    "PSP-AU-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.cebo.psp?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.cebo.psp?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.cebo.psp"
+    },
+    "PS-IN-iOS": {
+        "click": "https://app.appsflyer.com/id1384897952?",
+        "imp": "https://impression.appsflyer.com/id1384897952?",
+        "nativeurl": "https://apps.apple.com/IN/app/id1384897952?l=hi",
+        "appid": "1384897952"
+    },
+    "PS-CA-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-BR-iOS": {
+        "click": "https://app.appsflyer.com/id1448478295?",
+        "imp": "https://impression.appsflyer.com/id1448478295?",
+        "nativeurl": "https://apps.apple.com/BR/app/id1448478295?l=pt",
+        "appid": "1448478295"
+    },
+    "PS-UA-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-MX-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-NO-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-JP-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-CN-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-KR-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1434043599?",
+        "imp": "https://impression.appsflyer.com/id1434043599?",
+        "nativeurl": "https://apps.apple.com/SE/app/id1434043599?l=sv",
+        "appid": "1434043599"
+    },
+    "PS-DE-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-EU-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-IE-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-FI-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-GR-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-AT-iOS": {
+        "click": "https://app.appsflyer.com/id515257559?",
+        "imp": "https://impression.appsflyer.com/id515257559?",
+        "nativeurl": "https://apps.apple.com/MT/app/id515257559?",
+        "appid": "515257559"
+    },
+    "PS-RU-iOS": {
+        "click": "https://app.appsflyer.com/id1198223998?",
+        "imp": "https://impression.appsflyer.com/id1198223998?",
+        "nativeurl": "https://apps.apple.com/RU/app/id1198223998?l=ru",
+        "appid": "1198223998"
+    },
+    "PS-US-iOS": {
+        "click": "https://app.appsflyer.com/id897152078?",
+        "imp": "https://impression.appsflyer.com/id897152078?",
+        "nativeurl": "https://apps.apple.com/US/app/id897152078?l=en",
+        "appid": "897152078"
+    },
+    "PS-FR-iOS": {
+        "click": "https://app.appsflyer.com/id509469724?",
+        "imp": "https://impression.appsflyer.com/id509469724?",
+        "nativeurl": "https://apps.apple.com/FR/app/id509469724?l=fr",
+        "appid": "509469724"
+    },
+    "PS-ES-iOS": {
+        "click": "https://app.appsflyer.com/id533787554?",
+        "imp": "https://impression.appsflyer.com/id533787554?",
+        "nativeurl": "https://apps.apple.com/ES/app/id533787554?l=es",
+        "appid": "533787554"
+    },
+    "PS-IT-iOS": {
+        "click": "https://app.appsflyer.com/id463801955?",
+        "imp": "https://impression.appsflyer.com/id463801955?",
+        "nativeurl": "https://apps.apple.com/IT/app/id463801955?l=it",
+        "appid": "463801955"
+    },
+    "PS-PT-iOS": {
+        "click": "https://app.appsflyer.com/id1128328008?",
+        "imp": "https://impression.appsflyer.com/id1128328008?",
+        "nativeurl": "https://apps.apple.com/PT/app/id1128328008?l=pt",
+        "appid": "1128328008"
+    },
+    "PS-DK-iOS": {
+        "click": "https://app.appsflyer.com/id526074631?",
+        "imp": "https://impression.appsflyer.com/id526074631?",
+        "nativeurl": "https://apps.apple.com/DK/app/id526074631?l=da",
+        "appid": "526074631"
+    },
+    "PS-BE-iOS": {
+        "click": "https://app.appsflyer.com/id526068685?",
+        "imp": "https://impression.appsflyer.com/id526068685?",
+        "nativeurl": "https://apps.apple.com/BE/app/id526068685?l=nl",
+        "appid": "526068685"
+    },
+    "PS-BG-iOS": {
+        "click": "https://app.appsflyer.com/id897141031?",
+        "imp": "https://impression.appsflyer.com/id897141031?",
+        "nativeurl": "https://apps.apple.com/BG/app/id897141031?l=bg",
+        "appid": "897141031"
+    },
+    "PS-RO-iOS": {
+        "click": "https://app.appsflyer.com/id1128328156?",
+        "imp": "https://impression.appsflyer.com/id1128328156?",
+        "nativeurl": "https://apps.apple.com/RO/app/id1128328156?l=ro",
+        "appid": "1128328156"
+    },
+    "PS-CZ-iOS": {
+        "click": "https://app.appsflyer.com/id1176937935?",
+        "imp": "https://impression.appsflyer.com/id1176937935?",
+        "nativeurl": "https://apps.apple.com/CZ/app/id1176937935?l=cs",
+        "appid": "1176937935"
+    },
+    "PS-EE-iOS": {
+        "click": "https://app.appsflyer.com/id526072221?",
+        "imp": "https://impression.appsflyer.com/id526072221?",
+        "nativeurl": "",
+        "appid": "526072221"
+    },
+    "BS-COM-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "https://apps.apple.com/NO/app/id1012932832?l=nb",
+        "appid": "1012932832"
+    },
+    "BS-CA-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "https://apps.apple.com/NO/app/id1012932832?l=nb",
+        "appid": "1012932832"
+    },
+    "BS-BR-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "https://apps.apple.com/NO/app/id1012932832?l=nb",
+        "appid": "1012932832"
+    },
+    "BS-UA-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "https://apps.apple.com/NO/app/id1012932832?l=nb",
+        "appid": "1012932832"
+    },
+    "BS-MX-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "https://apps.apple.com/NO/app/id1012932832?l=nb",
+        "appid": "1012932832"
+    },
+    "BS-DE-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1012933302?l=de",
+        "appid": "1012933302"
+    },
+    "BS-FI-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1012933302?l=de",
+        "appid": "1012933302"
+    },
+    "BS-EU-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1012933302?l=de",
+        "appid": "1012933302"
+    },
+    "BS-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1435721197?",
+        "imp": "https://impression.appsflyer.com/id1435721197?",
+        "nativeurl": "",
+        "appid": "1435721197"
+    },
+    "BS-UK-iOS": {
+        "click": "https://app.appsflyer.com/id1012933972?",
+        "imp": "https://impression.appsflyer.com/id1012933972?",
+        "nativeurl": "https://apps.apple.com/GB/app/id1012933972?l=en",
+        "appid": "1012933972"
+    },
+    "BS-US-iOS": {
+        "click": "https://app.appsflyer.com/id1410133949?",
+        "imp": "https://impression.appsflyer.com/id1410133949?",
+        "nativeurl": "https://apps.apple.com/us/app/betstars-sports-betting/id1410133949",
+        "appid": "1410133949"
+    },
+    "BS-FR-iOS": {
+        "click": "https://app.appsflyer.com/id1078289048?",
+        "imp": "https://impression.appsflyer.com/id1078289048?",
+        "nativeurl": "https://apps.apple.com/FR/app/id1078289048?l=fr",
+        "appid": "1078289048"
+    },
+    "BS-ES-iOS": {
+        "click": "https://app.appsflyer.com/id1012933748?",
+        "imp": "https://impression.appsflyer.com/id1012933748?",
+        "nativeurl": "https://apps.apple.com/ES/app/id1012933748?l=es",
+        "appid": "1012933748"
+    },
+    "BS-IT-iOS": {
+        "click": "https://app.appsflyer.com/id1078289506?",
+        "imp": "https://impression.appsflyer.com/id1078289506?",
+        "nativeurl": "https://apps.apple.com/IT/app/id1078289506?l=it",
+        "appid": "1078289506"
+    },
+    "BS-DK-iOS": {
+        "click": "https://app.appsflyer.com/id1078289461?",
+        "imp": "https://impression.appsflyer.com/id1078289461?",
+        "nativeurl": "https://apps.apple.com/DK/app/id1078289461?l=da",
+        "appid": "1078289461"
+    },
+    "BS-RO-iOS": {
+        "click": "https://app.appsflyer.com/id1109418047?",
+        "imp": "https://impression.appsflyer.com/id1109418047?",
+        "nativeurl": "https://apps.apple.com/RO/app/id1109418047?l=ro",
+        "appid": "1109418047"
+    },
+    "CS-COM-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/us/app/pokerstars-casino-slot-games/id1145892643",
+        "appid": "1145892643"
+    },
+    "CS-CA-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/us/app/pokerstars-casino-slot-games/id1145892643",
+        "appid": "1145892643"
+    },
+    "CS-BR-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/us/app/pokerstars-casino-slot-games/id1145892643",
+        "appid": "1145892643"
+    },
+    "CS-UA-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/us/app/pokerstars-casino-slot-games/id1145892643",
+        "appid": "1145892643"
+    },
+    "CS-MX-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/us/app/pokerstars-casino-slot-games/id1145892643",
+        "appid": "1145892643"
+    },
+    "CS-EU-iOS": {
+        "click": "https://app.appsflyer.com/id1150477223?",
+        "imp": "https://impression.appsflyer.com/id1150477223?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1150477223?l=de",
+        "appid": "1150477223"
+    },
+    "CS-DE-iOS": {
+        "click": "https://app.appsflyer.com/id1150477223?",
+        "imp": "https://impression.appsflyer.com/id1150477223?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1150477223?l=de",
+        "appid": "1150477223"
+    },
+    "PC-DE-iOS": {
+        "click": "https://app.appsflyer.com/id1150477223?",
+        "imp": "https://impression.appsflyer.com/id1150477223?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1150477223?l=de",
+        "appid": "1150477223"
+    },
+    "CS-FI-iOS": {
+        "click": "https://app.appsflyer.com/id1150477223?",
+        "imp": "https://impression.appsflyer.com/id1150477223?",
+        "nativeurl": "https://apps.apple.com/DE/app/id1150477223?l=de",
+        "appid": "1150477223"
+    },
+    "CS-UK-iOS": {
+        "click": "https://app.appsflyer.com/id1150477426?",
+        "imp": "https://impression.appsflyer.com/id1150477426?",
+        "nativeurl": "https://apps.apple.com/GB/app/id1150477426?l=en",
+        "appid": "1150477426"
+    },
+    "CS-IT-iOS": {
+        "click": "https://app.appsflyer.com/id1326099720?",
+        "imp": "https://impression.appsflyer.com/id1326099720?",
+        "nativeurl": "https://apps.apple.com/IT/app/id1326099720?l=it",
+        "appid": "1326099720"
+    },
+    "CS-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1434052759?",
+        "imp": "https://impression.appsflyer.com/id1434052759?",
+        "nativeurl": "https://apps.apple.com/SE/app/id1434052759?l=sv",
+        "appid": "1434052759"
+    },
+    "CS-ES-iOS": {
+        "click": "https://app.appsflyer.com/id1326099168?",
+        "imp": "https://impression.appsflyer.com/id1326099168?",
+        "nativeurl": "https://apps.apple.com/ES/app/id1326099168?l=es",
+        "appid": "1326099168"
+    },
+    "CS-PT-iOS": {
+        "click": "https://app.appsflyer.com/id1326099703?",
+        "imp": "https://impression.appsflyer.com/id1326099703?",
+        "nativeurl": "https://apps.apple.com/PT/app/id1326099703?l=pt",
+        "appid": "1326099703"
+    },
+    "FT-COM-iOS": {
+        "click": "https://app.appsflyer.com/id1086660262?",
+        "imp": "https://impression.appsflyer.com/id1086660262?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1086660262?l=en",
+        "appid": "1086660262"
+    },
+    "FT-CA-iOS": {
+        "click": "https://app.appsflyer.com/id1086660262?",
+        "imp": "https://impression.appsflyer.com/id1086660262?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1086660262?l=en",
+        "appid": "1086660262"
+    },
+    "FT-BR-iOS": {
+        "click": "https://app.appsflyer.com/id1086660262?",
+        "imp": "https://impression.appsflyer.com/id1086660262?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1086660262?l=en",
+        "appid": "1086660262"
+    },
+    "FT-UA-iOS": {
+        "click": "https://app.appsflyer.com/id1086660262?",
+        "imp": "https://impression.appsflyer.com/id1086660262?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1086660262?l=en",
+        "appid": "1086660262"
+    },
+    "FT-MX-iOS": {
+        "click": "https://app.appsflyer.com/id1086660262?",
+        "imp": "https://impression.appsflyer.com/id1086660262?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1086660262?l=en",
+        "appid": "1086660262"
+    },
+    "FT-EU-iOS": {
+        "click": "https://app.appsflyer.com/id1086637792?",
+        "imp": "https://impression.appsflyer.com/id1086637792?",
+        "nativeurl": "https://apps.apple.com/AT/app/id1086637792?l=de",
+        "appid": "1086637792"
+    },
+    "FT-DE-iOS": {
+        "click": "https://app.appsflyer.com/id1086637792?",
+        "imp": "https://impression.appsflyer.com/id1086637792?",
+        "nativeurl": "https://apps.apple.com/AT/app/id1086637792?l=de",
+        "appid": "1086637792"
+    },
+    "FT-FI-iOS": {
+        "click": "https://app.appsflyer.com/id1086637792?",
+        "imp": "https://impression.appsflyer.com/id1086637792?",
+        "nativeurl": "https://apps.apple.com/AT/app/id1086637792?l=de",
+        "appid": "1086637792"
+    },
+    "FT-UK-iOS": {
+        "click": "https://app.appsflyer.com/id1086620155?",
+        "imp": "https://impression.appsflyer.com/id1086620155?",
+        "nativeurl": "https://apps.apple.com/GB/app/id1086620155?l=en",
+        "appid": "1086620155"
+    },
+    "FT-DK-iOS": {
+        "click": "https://app.appsflyer.com/id1086634061?",
+        "imp": "https://impression.appsflyer.com/id1086634061?",
+        "nativeurl": "https://apps.apple.com/DK/app/id1086634061?l=da",
+        "appid": "1086634061"
+    },
+    "FT-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1434394712?",
+        "imp": "https://impression.appsflyer.com/id1434394712?",
+        "nativeurl": "https://apps.apple.com/SE/app/id1434394712?l=sv",
+        "appid": "1434394712"
+    },
+    "PS-UK-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.uk?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.uk?",
+        "nativeurl": "https://play.google.com/store/apps/details?hl=en&id=com.pokerstars.uk&gl=uk",
+        "appid": "com.pokerstars.uk"
+    },
+    "PS-FR-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.fr?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.fr?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.fr&hl=fr&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.fr"
+    },
+    "PS-IE-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-DE-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-FI-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-GR-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-EU-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-AT-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.eu?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pyrsoftware.pokerstars.eu&gl=fr",
+        "appid": "com.pyrsoftware.pokerstars.eu"
+    },
+    "PS-SE-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.se?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.se?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.se"
+    },
+    "PS-IN-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.in?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.in?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.in"
+    },
+    "PS-COM-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-CA-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-NO-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-BR-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-JP-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-UA-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-MX-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-US-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.usnj?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.usnj?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.usnj"
+    },
+    "PS-RU-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.ruso?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.ruso?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.ruso"
+    },
+    "PS-ES-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.es?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.es?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pokerstars.es",
+        "appid": "com.pokerstars.es"
+    },
+    "PS-IT-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.it?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.it?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.it"
+    },
+    "PS-PT-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.pt?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.pt?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.pt"
+    },
+    "PS-DK-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.dk?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.dk?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.dk"
+    },
+    "PS-BE-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.be?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.be?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.be"
+    },
+    "PS-BG-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.bg?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.bg?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.bg"
+    },
+    "PS-RO-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.ro?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.ro?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.ro"
+    },
+    "PS-CZ-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.cz?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.cz?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.cz"
+    },
+    "PS-EE-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.ee?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.ee?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.ee"
+    },
+    "FT-UK-AND": {
+        "click": "https://app.appsflyer.com/uk.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/uk.fulltilt.fulltilt?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=uk.fulltilt.fulltilt&gl=uk",
+        "appid": "uk.fulltilt.fulltilt"
+    },
+    "FT-IE-AND": {
+        "click": "https://app.appsflyer.com/eu.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/eu.fulltilt.fulltilt?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.fulltilt.fulltilt&gl=ie",
+        "appid": "eu.fulltilt.fulltilt"
+    },
+    "FT-DE-AND": {
+        "click": "https://app.appsflyer.com/eu.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/eu.fulltilt.fulltilt?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.fulltilt.fulltilt&gl=ie",
+        "appid": "eu.fulltilt.fulltilt"
+    },
+    "FT-FI-AND": {
+        "click": "https://app.appsflyer.com/eu.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/eu.fulltilt.fulltilt?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.fulltilt.fulltilt&gl=ie",
+        "appid": "eu.fulltilt.fulltilt"
+    },
+    "FT-EU-AND": {
+        "click": "https://app.appsflyer.com/eu.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/eu.fulltilt.fulltilt?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.fulltilt.fulltilt&gl=ie",
+        "appid": "eu.fulltilt.fulltilt"
+    },
+    "FT-SE-AND": {
+        "click": "https://app.appsflyer.com/se.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/se.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "se.fulltilt.fulltilt"
+    },
+    "FT-COM-AND": {
+        "click": "https://app.appsflyer.com/com.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/com.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "com.fulltilt.fulltilt"
+    },
+    "FT-CA-AND": {
+        "click": "https://app.appsflyer.com/com.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/com.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "com.fulltilt.fulltilt"
+    },
+    "FT-BR-AND": {
+        "click": "https://app.appsflyer.com/com.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/com.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "com.fulltilt.fulltilt"
+    },
+    "FT-UA-AND": {
+        "click": "https://app.appsflyer.com/com.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/com.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "com.fulltilt.fulltilt"
+    },
+    "FT-MX-AND": {
+        "click": "https://app.appsflyer.com/com.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/com.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "com.fulltilt.fulltilt"
+    },
+    "FT-DK-AND": {
+        "click": "https://app.appsflyer.com/dk.fulltilt.fulltilt?",
+        "imp": "https://impression.appsflyer.com/dk.fulltilt.fulltilt?",
+        "nativeurl": "",
+        "appid": "dk.fulltilt.fulltilt"
+    },
+    "CS-UK-AND": {
+        "click": "https://app.appsflyer.com/uk.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/uk.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=uk.pokerstars.casino&gl=uk",
+        "appid": "uk.pokerstars.casino"
+    },
+    "CS-EU-AND": {
+        "click": "https://app.appsflyer.com/eu.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/eu.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.pokerstars.casino&gl=ie",
+        "appid": "eu.pokerstars.casino"
+    },
+    "CS-DE-AND": {
+        "click": "https://app.appsflyer.com/eu.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/eu.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.pokerstars.casino&gl=ie",
+        "appid": "eu.pokerstars.casino"
+    },
+    "PC-DE-AND": {
+        "click": "https://app.appsflyer.com/eu.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/eu.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.pokerstars.casino&gl=ie",
+        "appid": "eu.pokerstars.casino"
+    },
+    "CS-FI-AND": {
+        "click": "https://app.appsflyer.com/eu.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/eu.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.pokerstars.casino&gl=ie",
+        "appid": "eu.pokerstars.casino"
+    },
+    "CS-SE-AND": {
+        "click": "https://app.appsflyer.com/se.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/se.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "se.pokerstars.casino"
+    },
+    "CS-COM-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.casino"
+    },
+    "CS-CA-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.casino"
+    },
+    "CS-BR-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.casino"
+    },
+    "CS-UA-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.casino"
+    },
+    "CS-MX-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.casino"
+    },
+    "CS-ES-AND": {
+        "click": "https://app.appsflyer.com/es.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/es.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "es.pokerstars.casino"
+    },
+    "CS-PT-AND": {
+        "click": "https://app.appsflyer.com/pt.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/pt.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "pt.pokerstars.casino"
+    },
+    "BS-FR-AND": {
+        "click": "https://app.appsflyer.com/fr.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/fr.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=fr.betstars.betstars&gl=fr",
+        "appid": "fr.betstars.betstars"
+    },
+    "BS-UK-AND": {
+        "click": "https://app.appsflyer.com/uk.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/uk.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=uk.betstars.betstars&gl=uk",
+        "appid": "uk.betstars.betstars"
+    },
+    "BS-EU-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.betstars.betstars&gl=",
+        "appid": "eu.betstars.betstars"
+    },
+    "BS-DE-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.betstars.betstars&gl=",
+        "appid": "eu.betstars.betstars"
+    },
+    "BS-FI-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.betstars.betstars&gl=",
+        "appid": "eu.betstars.betstars"
+    },
+    "BS-PT-AND": {
+        "click": "https://app.appsflyer.com/pt.betstars.betstars-selfhosted?",
+        "imp": "https://impression.appsflyer.com/pt.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "pt.betstars.betstars-selfhosted"
+    },
+    "BS-COM-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "BS-CA-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "BS-BR-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "BS-UA-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "BS-MX-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "BS-US-AND": {
+        "click": "https://app.appsflyer.com/usnj.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/usnj.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "usnj.betstars.betstars"
+    },
+    "BS-ES-AND": {
+        "click": "https://app.appsflyer.com/es.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/es.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "es.betstars.betstars"
+    },
+    "BS-IT-AND": {
+        "click": "https://app.appsflyer.com/it.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/it.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "it.betstars.betstars"
+    },
+    "BS-SE-AND": {
+        "click": "https://app.appsflyer.com/se.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/se.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "se.betstars.betstars"
+    },
+    "BS-DK-AND": {
+        "click": "https://app.appsflyer.com/dk.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/dk.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "dk.betstars.betstars"
+    },
+    "BS-RO-AND": {
+        "click": "https://app.appsflyer.com/ro.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/ro.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "ro.betstars.betstars"
+    },
+    "BS-CZ-AND": {
+        "click": "https://app.appsflyer.com/cz.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/cz.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "cz.betstars.betstars"
+    },
+    "PC-SE-MOB": {
+        "click": "https://amaya.onelink.me/egJW?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "egJW"
+    },
+    "PS-NET-MOB": {
+        "click": "https://go.onelink.me/215543440?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "215543440"
+    },
+    "PS-RUSOPM-MOB": {
+        "click": "https://amaya.onelink.me/852236510?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "852236510"
+    },
+    "FT-NET-MOB": {
+        "click": "https://amaya.onelink.me/435317656?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "435317656"
+    },
+    "FT-NET-MOB": {
+        "click": "https://amaya.onelink.me/1927093201?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1927093201"
+    },
+    "PSP-PLAY-MOB": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PSP-US-MOB": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PSP-AU-MOB": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PS-IN-MOB": {
+        "click": "https://amaya.onelink.me/WXSL?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "WXSL"
+    },
+    "PS-CA-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-BR-MOB": {
+        "click": "https://amaya.onelink.me/ELSy?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-UA-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-MX-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-NO-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-JP-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-CN-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-KR-MOB": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-EU-MOB": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-SE-MOB": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-IE-MOB": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-FI-MOB": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-GR-MOB": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-RU-MOB": {
+        "click": "https://amaya.onelink.me/852236510?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "852236510"
+    },
+    "PS-US-MOB": {
+        "click": "https://amaya.onelink.me/2179538352?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2179538352"
+    },
+    "PS-UK-MOB": {
+        "click": "https://amaya.onelink.me/197923601?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "197923601"
+    },
+    "PS-FR-MOB": {
+        "click": "https://amaya.onelink.me/52716511?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "52716511"
+    },
+    "PS-ES-MOB": {
+        "click": "https://amaya.onelink.me/716907493?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "716907493"
+    },
+    "PS-IT-MOB": {
+        "click": "https://amaya.onelink.me/4181072782?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4181072782"
+    },
+    "PS-PT-MOB": {
+        "click": "https://amaya.onelink.me/4023034288?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4023034288"
+    },
+    "PS-DK-MOB": {
+        "click": "https://amaya.onelink.me/4202431923?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4202431923"
+    },
+    "PS-BE-MOB": {
+        "click": "https://amaya.onelink.me/184562723?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "184562723"
+    },
+    "PS-BG-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-RO-MOB": {
+        "click": "https://amaya.onelink.me/1255890357?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1255890357"
+    },
+    "PS-CZ-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-EE-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-COM-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-CA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-BR-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-UA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-MX-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-DE-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-SE-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-FI-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-EU-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-US-MOB": {
+        "click": "https://amaya.onelink.me/Xawh?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Xawh"
+    },
+    "BS-UK-MOB": {
+        "click": "https://amaya.onelink.me/287422264?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "287422264"
+    },
+    "BS-FR-MOB": {
+        "click": "https://amaya.onelink.me/Nia5?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Nia5"
+    },
+    "BS-ES-MOB": {
+        "click": "https://amaya.onelink.me/3315694812?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3315694812"
+    },
+    "BS-IT-MOB": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "VwfF"
+    },
+    "BS-PT-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-DK-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-RO-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-COM-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-CA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-BR-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-UA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-MX-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-EU-MOB": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-DE-MOB": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "PC-DE-MOB": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-SE-MOB": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-FI-MOB": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-UK-MOB": {
+        "click": "https://amaya.onelink.me/2650513999?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2650513999"
+    },
+    "CS-IT-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-ES-MOB": {
+        "click": "https://amaya.onelink.me/4231083353?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4231083353"
+    },
+    "CS-PT-MOB": {
+        "click": "https://amaya.onelink.me/uERi?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uERi"
+    },
+    "FT-COM-MOB": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-CA-MOB": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-BR-MOB": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-UA-MOB": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-MX-MOB": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-EU-MOB": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-DE-MOB": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-SE-MOB": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-FI-MOB": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-UK-MOB": {
+        "click": "https://amaya.onelink.me/2580835075?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2580835075"
+    },
+    "FT-DK-MOB": {
+        "click": "https://amaya.onelink.me/1774714697?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1774714697"
+    },
+    "PS-NET-DIS": {
+        "click": "https://go.onelink.me/215543440?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "215543440"
+    },
+    "PS-RUSOPM-DIS": {
+        "click": "https://amaya.onelink.me/852236510?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "852236510"
+    },
+    "FT-NET-DIS": {
+        "click": "https://amaya.onelink.me/435317656?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "435317656"
+    },
+    "FT-NET-DIS": {
+        "click": "https://amaya.onelink.me/1927093201?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1927093201"
+    },
+    "PSP-PLAY-DIS": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PSP-AU-DIS": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PSP-US-DIS": {
+        "click": "https://amaya.onelink.me/hp1l?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "hp1l"
+    },
+    "PS-IN-DIS": {
+        "click": "https://amaya.onelink.me/WXSL?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "WXSL"
+    },
+    "PS-CA-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-BR-DIS": {
+        "click": "https://amaya.onelink.me/ELSy?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-UA-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-MX-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-NO-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-JP-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-CN-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-KR-DIS": {
+        "click": "https://amaya.onelink.me/329188057?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "329188057"
+    },
+    "PS-EU-DIS": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-SE-DIS": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-IE-DIS": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-FI-DIS": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-GR-DIS": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PS-RU-DIS": {
+        "click": "https://amaya.onelink.me/852236510?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "852236510"
+    },
+    "PS-US-DIS": {
+        "click": "https://amaya.onelink.me/2179538352?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2179538352"
+    },
+    "PS-UK-DIS": {
+        "click": "https://amaya.onelink.me/197923601?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "197923601"
+    },
+    "PS-FR-DIS": {
+        "click": "https://amaya.onelink.me/52716511?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "52716511"
+    },
+    "PS-FR-CTV": {
+        "click": "https://amaya.onelink.me/52716511?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "52716511"
+    },
+    "PS-ES-DIS": {
+        "click": "https://amaya.onelink.me/716907493?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "716907493"
+    },
+    "PS-IT-DIS": {
+        "click": "https://amaya.onelink.me/4181072782?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4181072782"
+    },
+    "PS-PT-DIS": {
+        "click": "https://amaya.onelink.me/4023034288?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4023034288"
+    },
+    "PS-DK-DIS": {
+        "click": "https://amaya.onelink.me/4202431923?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4202431923"
+    },
+    "PS-BE-DIS": {
+        "click": "https://amaya.onelink.me/184562723?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "184562723"
+    },
+    "PS-BG-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-RO-DIS": {
+        "click": "https://amaya.onelink.me/1255890357?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1255890357"
+    },
+    "PS-CZ-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-EE-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-COM-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-CA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-BR-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-UA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-MX-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-DE-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-SE-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-FI-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-EU-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "BS-UK-DIS": {
+        "click": "https://amaya.onelink.me/287422264?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "287422264"
+    },
+    "BS-FR-DIS": {
+        "click": "https://amaya.onelink.me/Nia5?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Nia5"
+    },
+    "BS-ES-DIS": {
+        "click": "https://amaya.onelink.me/3315694812?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3315694812"
+    },
+    "BS-IT-DIS": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "VwfF"
+    },
+    "BS-PT-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-DK-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "BS-RO-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-COM-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-CA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-BR-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-UA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-MX-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "CS-EU-DIS": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-DE-DIS": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "PC-DE-DIS": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-SE-DIS": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-FI-DIS": {
+        "click": "https://amaya.onelink.me/4192875297?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4192875297"
+    },
+    "CS-UK-DIS": {
+        "click": "https://amaya.onelink.me/2650513999?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2650513999"
+    },
+    "CS-IT-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "FT-COM-DIS": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-CA-DIS": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-BR-DIS": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-UA-DIS": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-MX-DIS": {
+        "click": "https://amaya.onelink.me/4271522226?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4271522226"
+    },
+    "FT-EU-DIS": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-DE-DIS": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-SE-DIS": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-FI-DIS": {
+        "click": "https://amaya.onelink.me/3875212449?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3875212449"
+    },
+    "FT-UK-DIS": {
+        "click": "https://amaya.onelink.me/2580835075?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2580835075"
+    },
+    "FT-DK-DIS": {
+        "click": "https://amaya.onelink.me/1774714697?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1774714697"
+    },
+    "SB-DE-iOS": {
+        "click": "https://amaya.onelink.me/wGEu?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "wGEu"
+    },
+    "SB-DE-AND": {
+        "click": "https://amaya.onelink.me/wGEu?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "wGEu"
+    },
+    "SB-DE-MOB": {
+        "click": "https://amaya.onelink.me/wGEu?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "wGEu"
+    },
+    "SB-DE-DIS": {
+        "click": "https://amaya.onelink.me/wGEu?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "wGEu"
+    },
+    "FXB-NJ-IOS": {
+        "click": "https://app.appsflyer.com/id1410133949?",
+        "imp": "https://impression.appsflyer.com/id1410133949?",
+        "nativeurl": "https://apps.apple.com/us/app/betstars-sports-betting/id1410133949",
+        "appid": "1410133949"
+    },
+    "FXB-NJ-AND": {
+        "click": "https://app.appsflyer.com/usnj.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/usnj.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "usnj.betstars.betstars"
+    },
+    "FXB-NJ-MOB": {
+        "click": "https://amaya.onelink.me/TKLZ?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "TKLZ"
+    },
+    "FXB-PA-IOS": {
+        "click": "https://app.appsflyer.com/id1472570816?",
+        "imp": "https://impression.appsflyer.com/id1472570816?",
+        "nativeurl": "Â https://apps.apple.com/US/app/id1472570816?l=en",
+        "appid": "1472570816"
+    },
+    "FXB-PA-AND": {
+        "click": "https://app.appsflyer.com/uspa.foxbet.foxbet?",
+        "imp": "https://impression.appsflyer.com/foxbet.foxbet?",
+        "nativeurl": "",
+        "appid": "uspa.foxbet.foxbet"
+    },
+    "FXB-PA-MOB": {
+        "click": "https://amaya.onelink.me/IT13?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "IT13"
+    },
+    "FXB-CO-IOS": {
+        "click": "https://app.appsflyer.com/id1508135550?",
+        "imp": "https://impression.appsflyer.com/id1508135550",
+        "nativeurl": "https://apps.apple.com/US/app/id1508135550?l=en",
+        "appid": "1508135550"
+    },
+    "FXB-CO-AND": {
+        "click": "https://app.appsflyer.com/usco.foxbet.foxbet?",
+        "imp": "https://impression.appsflyer.com/usco.foxbet.foxbet",
+        "nativeurl": "",
+        "appid": "usco.foxbet.foxbet"
+    },
+    "FXB-CO-MOB": {
+        "click": "https://amaya.onelink.me/LPl3?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "LPl3"
+    },
+    "PS-VN-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.com?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.com"
+    },
+    "PS-VN-iOS": {
+        "click": "https://app.appsflyer.com/id497361777?",
+        "imp": "https://impression.appsflyer.com/id497361777?",
+        "nativeurl": "https://apps.apple.com/CA/app/id497361777?l=en",
+        "appid": "497361777"
+    },
+    "PS-VN-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-AR-iOS": {
+        "click": "https://app.appsflyer.com/id606944207?",
+        "imp": "https://impression.appsflyer.com/id606944207?",
+        "nativeurl": "https://apps.apple.com/CH/app/id606944207?l=de",
+        "appid": "606944207"
+    },
+    "PS-AR-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.net?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.net?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.net"
+    },
+    "PS-AR-MOB": {
+        "click": "https://go.onelink.me/215543440?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "215543440"
+    },
+    "SB-IT-iOS": {
+        "click": "https://app.appsflyer.com/1078289506?",
+        "imp": "https://impression.appsflyer.com/1078289506?",
+        "nativeurl": "",
+        "appid": "1078289506"
+    },
+    "SB-IT-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=eu.betstars.betstars&gl=",
+        "appid": "eu.betstars.betstars"
+    },
+    "PS-CH-iOS": {
+        "click": "https://app.appsflyer.com/id1450283147?",
+        "imp": "https://impression.appsflyer.com/id1450283147?",
+        "nativeurl": "",
+        "appid": "1450283147"
+    },
+    "SB-IT-MOB": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "VwfF"
+    },
+    "PS-CH-AND": {
+        "click": "https://app.appsflyer.com/com.pyrsoftware.pokerstars.ch?",
+        "imp": "https://impression.appsflyer.com/com.pyrsoftware.pokerstars.ch?",
+        "nativeurl": "",
+        "appid": "com.pyrsoftware.pokerstars.ch"
+    },
+    "PC-DK-iOS": {
+        "click": "https://app.appsflyer.com/id1326097245?",
+        "imp": "https://impression.appsflyer.com/id1326097245?",
+        "nativeurl": "https://apps.apple.com/DK/app/id1326097245?l=da",
+        "appid": "1326097245"
+    },
+    "PC-DK-AND": {
+        "click": "https://app.appsflyer.com/dk.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/dk.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "dk.pokerstars.casino"
+    },
+    "PC-DK-DIS": {
+        "click": "https://amaya.onelink.me/H8fF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "H8fF"
+    },
+    "CPC-DK-MOB": {
+        "click": "https://amaya.onelink.me/H8fF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "H8fF"
+    },
+    "PC-RO-iOS": {
+        "click": "https://app.appsflyer.com/id1326099585?",
+        "imp": "https://impression.appsflyer.com/id1326099585?",
+        "nativeurl": "https://apps.apple.com/RO/app/id1326099585?l=ro",
+        "appid": "1326099585"
+    },
+    "PC-RO-AND": {
+        "click": "https://app.appsflyer.com/ro.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/ro.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "ro.pokerstars.casino"
+    },
+    "PC-RO-DIS": {
+        "click": "https://amaya.onelink.me/twaL?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "twaL"
+    },
+    "PC-RO-MOB": {
+        "click": "https://amaya.onelink.me/twaL?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "twaL"
+    },
+    "PSS-COM-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "",
+        "appid": "1012932832"
+    },
+    "PSS-CA-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "",
+        "appid": "1012932832"
+    },
+    "PSS-BR-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "",
+        "appid": "1012932832"
+    },
+    "PSS-UA-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "",
+        "appid": "1012932832"
+    },
+    "PSS-MX-iOS": {
+        "click": "https://app.appsflyer.com/id1012932832?",
+        "imp": "https://impression.appsflyer.com/id1012932832?",
+        "nativeurl": "",
+        "appid": "1012932832"
+    },
+    "PSS-DE-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "",
+        "appid": "1012933302"
+    },
+    "PSS-FI-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "",
+        "appid": "1012933302"
+    },
+    "PSS-EU-iOS": {
+        "click": "https://app.appsflyer.com/id1012933302?",
+        "imp": "https://impression.appsflyer.com/id1012933302?",
+        "nativeurl": "",
+        "appid": "1012933302"
+    },
+    "PSS-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1435721197?",
+        "imp": "https://impression.appsflyer.com/id1435721197?",
+        "nativeurl": "",
+        "appid": "1435721197"
+    },
+    "PSS-UK-iOS": {
+        "click": "https://app.appsflyer.com/id1012933972?",
+        "imp": "https://impression.appsflyer.com/id1012933972?",
+        "nativeurl": "",
+        "appid": "1012933972"
+    },
+    "PSS-US-iOS": {
+        "click": "https://app.appsflyer.com/id1410133949?",
+        "imp": "https://impression.appsflyer.com/id1410133949?",
+        "nativeurl": "",
+        "appid": "1410133949"
+    },
+    "PSS-FR-iOS": {
+        "click": "https://app.appsflyer.com/id1078289048?",
+        "imp": "https://impression.appsflyer.com/id1078289048?",
+        "nativeurl": "",
+        "appid": "1078289048"
+    },
+    "PSS-ES-iOS": {
+        "click": "https://app.appsflyer.com/id1012933748?",
+        "imp": "https://impression.appsflyer.com/id1012933748?",
+        "nativeurl": "",
+        "appid": "1012933748"
+    },
+    "PSS-IT-iOS": {
+        "click": "https://app.appsflyer.com/id1078289506?",
+        "imp": "https://impression.appsflyer.com/id1078289506?",
+        "nativeurl": "",
+        "appid": "1078289506"
+    },
+    "PSS-DK-iOS": {
+        "click": "https://app.appsflyer.com/id1078289461?",
+        "imp": "https://impression.appsflyer.com/id1078289461?",
+        "nativeurl": "",
+        "appid": "1078289461"
+    },
+    "PSS-RO-iOS": {
+        "click": "https://app.appsflyer.com/id1109418047?",
+        "imp": "https://impression.appsflyer.com/id1109418047?",
+        "nativeurl": "",
+        "appid": "1109418047"
+    },
+    "PSS-FR-AND": {
+        "click": "https://app.appsflyer.com/fr.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/fr.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "fr.betstars.betstars"
+    },
+    "PSS-UK-AND": {
+        "click": "https://app.appsflyer.com/uk.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/uk.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "uk.betstars.betstars"
+    },
+    "PSS-EU-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "eu.betstars.betstars"
+    },
+    "PSS-DE-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "eu.betstars.betstars"
+    },
+    "PSS-FI-AND": {
+        "click": "https://app.appsflyer.com/eu.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/eu.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "eu.betstars.betstars"
+    },
+    "PSS-PT-AND": {
+        "click": "https://app.appsflyer.com/pt.betstars.betstars-selfhosted?",
+        "imp": "https://impression.appsflyer.com/pt.betstars.betstars-selfhosted?",
+        "nativeurl": "",
+        "appid": "pt.betstars.betstars-selfhosted"
+    },
+    "PSS-COM-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "PSS-CA-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "PSS-BR-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "PSS-UA-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "PSS-MX-AND": {
+        "click": "https://app.appsflyer.com/com.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/com.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "com.betstars.betstars"
+    },
+    "PSS-US-AND": {
+        "click": "https://app.appsflyer.com/usnj.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/usnj.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "usnj.betstars.betstars"
+    },
+    "PSS-ES-AND": {
+        "click": "https://app.appsflyer.com/es.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/es.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "es.betstars.betstars"
+    },
+    "PSS-IT-AND": {
+        "click": "https://app.appsflyer.com/it.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/it.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "it.betstars.betstars"
+    },
+    "PSS-SE-AND": {
+        "click": "https://app.appsflyer.com/se.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/se.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "se.betstars.betstars"
+    },
+    "PSS-DK-AND": {
+        "click": "https://app.appsflyer.com/dk.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/dk.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "dk.betstars.betstars"
+    },
+    "PSS-RO-AND": {
+        "click": "https://app.appsflyer.com/ro.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/ro.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "ro.betstars.betstars"
+    },
+    "PSS-CZ-AND": {
+        "click": "https://app.appsflyer.com/cz.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/cz.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "cz.betstars.betstars"
+    },
+    "PSS-COM-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-CA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-BR-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-UA-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-MX-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-DE-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-SE-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-FI-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-EU-MOB": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-US-MOB": {
+        "click": "https://amaya.onelink.me/Xawh?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Xawh"
+    },
+    "PSS-UK-MOB": {
+        "click": "https://amaya.onelink.me/287422264?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "287422264"
+    },
+    "PSS-FR-MOB": {
+        "click": "https://amaya.onelink.me/Nia5?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Nia5"
+    },
+    "PSS-ES-MOB": {
+        "click": "https://amaya.onelink.me/3315694812?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3315694812"
+    },
+    "PSS-IT-MOB": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "VwfF"
+    },
+    "PSS-PT-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-DK-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-RO-MOB": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-COM-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-CA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-BR-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-UA-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-MX-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-DE-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-SE-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-FI-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-EU-DIS": {
+        "click": "https://amaya.onelink.me/2656831877?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2656831877"
+    },
+    "PSS-UK-DIS": {
+        "click": "https://amaya.onelink.me/287422264?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "287422264"
+    },
+    "PSS-FR-DIS": {
+        "click": "https://amaya.onelink.me/Nia5?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "Nia5"
+    },
+    "PSS-ES-DIS": {
+        "click": "https://amaya.onelink.me/3315694812?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3315694812"
+    },
+    "PSS-IT-DIS": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "VwfF"
+    },
+    "PSS-PT-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-DK-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PSS-RO-DIS": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-CA-CTV": {
+        "click": "",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PC-CA-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=com.pokerstars.casino",
+        "appid": "com.pokerstars.casino"
+    },
+    "PC-CA-iOS": {
+        "click": "https://app.appsflyer.com/id1145892643?",
+        "imp": "https://impression.appsflyer.com/id1145892643?",
+        "nativeurl": "https://apps.apple.com/al/app/id1145892643",
+        "appid": "id1145892643"
+    },
+    "PS-NET-iOS": {
+        "click": "https://app.appsflyer.com/id606944207?",
+        "imp": "https://impression.appsflyer.com/id606944207?",
+        "nativeurl": "https://apps.apple.com/CH/app/id606944207?l=de",
+        "appid": "606944207"
+    },
+    "PC-CA-CTV": {
+        "click": "https://amaya.onelink.me/1272627827?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1272627827"
+    },
+    "PC-CA-MOB": {
+        "click": "https://amaya.onelink.me/1272627827?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1272627827"
+    },
+    "PC-CA-DIS": {
+        "click": "https://amaya.onelink.me/1272627827?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1272627827"
+    },
+    "PC-UK-AND": {
+        "click": "https://app.appsflyer.com/uk.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/uk.pokerstars.casino?",
+        "nativeurl": "https://play.google.com/store/apps/details?id=uk.pokerstars.casino&gl=uk",
+        "appid": "uk.pokerstars.casino"
+    },
+    "PC-UK-iOS": {
+        "click": "https://app.appsflyer.com/id1150477426?",
+        "imp": "https://impression.appsflyer.com/id1150477426?",
+        "nativeurl": "https://apps.apple.com/GB/app/id1150477426?l=en",
+        "appid": "1150477426"
+    },
+    "PC-UK-MOB": {
+        "click": "https://amaya.onelink.me/2650513999?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2650513999"
+    },
+    "PC-UK-DIS": {
+        "click": "https://amaya.onelink.me/2650513999?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "2650513999"
+    },
+    "PC-UK-CTV": {
+        "click": "https://amaya.onelink.me/2650513999?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PC-RO-CTV": {
+        "click": "https://amaya.onelink.me/1255890357?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1255890357"
+    },
+    "PC-ES-MOB": {
+        "click": "https://amaya.onelink.me/4231083353?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4231083353"
+    },
+    "PC-ES-DIS": {
+        "click": "https://amaya.onelink.me/4231083353?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4231083353"
+    },
+    "PS-IT-CTV": {
+        "click": "https://amaya.onelink.me/4181072782?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4181072782"
+    },
+    "PS-BR-CTV": {
+        "click": "https://amaya.onelink.me/ELSy?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PC-ES-iOS": {
+        "click": "https://app.appsflyer.com/id1326099168?",
+        "imp": "https://impression.appsflyer.com/id1326099168?",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-RU-CTV": {
+        "click": "https://amaya.onelink.me/852236510?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "852236510"
+    },
+    "PS-UK-CTV": {
+        "click": "https://amaya.onelink.me/197923601?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "197923601"
+    },
+    "PSS-IT-DIS": {
+        "click": "https://amaya.onelink.me/VwfF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PC-IT-DIS": {
+        "click": "https://amaya.onelink.me/VqKD?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-ES-CTV": {
+        "click": "https://amaya.onelink.me/716907493",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PC-SE-AND": {
+        "click": "https://app.appsflyer.com/se.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/se.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "se.pokerstars.casino"
+    },
+    "PC-SE-iOS": {
+        "click": "https://app.appsflyer.com/id1434052759?",
+        "imp": "https://impression.appsflyer.com/id1434052759?",
+        "nativeurl": "https://apps.apple.com/SE/app/id1434052759?l=sv",
+        "appid": "1434052759"
+    },
+    "PS-IT-CTV": {
+        "click": "https://amaya.onelink.me/3987776246?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "3987776246"
+    },
+    "PC-ES-CTV": {
+        "click": "https://amaya.onelink.me/4231083353",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "4231083353"
+    },
+    "PS-CZ-MOB": {
+        "click": "https://amaya.onelink.me/3004566598",
+        "imp": "",
+        "nativeurl": "",
+        "appid": ""
+    },
+    "PS-CAON-MOB": {
+        "click": "https://amaya.onelink.me/1DWJ?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1DWJ"
+    },
+    "PS-CAON-CTV": {
+        "click": "https://amaya.onelink.me/1DWJ?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1DWJ"
+    },
+    "PS-CAON-iOS": {
+        "click": "https://app.appsflyer.com/id1594624219?",
+        "imp": "https://impression.appsflyer.com/id1594624219?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1594624219?l=en",
+        "appid": "1594624219"
+    },
+    "PS-CAON-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.caon?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.caon?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.caon"
+    },
+    "PS-CAON-DIS": {
+        "click": "https://amaya.onelink.me/1DWJ?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "1DWJ"
+    },
+    "PC-CAON-MOB": {
+        "click": "https://amaya.onelink.me/uvmh?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uvmh"
+    },
+    "PC-CAON-CTV": {
+        "click": "https://amaya.onelink.me/uvmh?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uvmh"
+    },
+    "PC-CAON-iOS": {
+        "click": "https://app.appsflyer.com/id1596076094?",
+        "imp": "https://impression.appsflyer.com/id1596076094?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1596076094?l=en",
+        "appid": "1596076094"
+    },
+    "PC-CAON-AND": {
+        "click": "https://app.appsflyer.com/caon.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/caon.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "caon.pokerstars.casino"
+    },
+    "PC-CAON-DIS": {
+        "click": "https://amaya.onelink.me/uvmh?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uvmh"
+    },
+    "PSS-CAON-MOB": {
+        "click": "https://amaya.onelink.me/ka6R?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "ka6R"
+    },
+    "PSS-CAON-iOS": {
+        "click": "https://app.appsflyer.com/id1596075556?",
+        "imp": "https://impression.appsflyer.com/id1596075556?",
+        "nativeurl": "https://apps.apple.com/CA/app/id1596075556?l=en",
+        "appid": "1596075556"
+    },
+    "PSS-CAON-AND": {
+        "click": "https://app.appsflyer.com/caon.betstars.betstars?",
+        "imp": "https://impression.appsflyer.com/caon.betstars.betstars?",
+        "nativeurl": "",
+        "appid": "caon.betstars.betstars"
+    },
+    "PSS-CAON-DIS": {
+        "click": "https://amaya.onelink.me/ka6R?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "ka6R"
+    },
+    "PSS-CAON-CTV": {
+        "click": "https://amaya.onelink.me/ka6R?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "ka6R"
+    },
+    "PS-MI-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.uspa?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.uspa?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.uspa"
+    },
+    "PS-MI-iOS": {
+        "click": "https://app.appsflyer.com/id1454778152?",
+        "imp": "https://impression.appsflyer.com/id1454778152?",
+        "nativeurl": "",
+        "appid": "1454778152"
+    },
+    "PS-MI-DIS": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PS-MI-MOB": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PS-PA-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.uspa?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.uspa?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.uspa"
+    },
+    "PS-PA-iOS": {
+        "click": "https://app.appsflyer.com/id1454778152?",
+        "imp": "https://impression.appsflyer.com/id1454778152?",
+        "nativeurl": "",
+        "appid": "1454778152"
+    },
+    "PS-PA-DIS": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PS-PA-MOB": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PS-NJ-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.uspa?",
+        "imp": "https://impression.appsflyer.com/com.pokerstars.uspa?",
+        "nativeurl": "",
+        "appid": "com.pokerstars.uspa"
+    },
+    "PS-NJ-iOS": {
+        "click": "https://app.appsflyer.com/id1454778152?",
+        "imp": "https://impression.appsflyer.com/id1454778152?",
+        "nativeurl": "",
+        "appid": "1454778152"
+    },
+    "PS-NJ-DIS": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PS-NJ-MOB": {
+        "click": "https://amaya.onelink.me/0HXF?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "0HXF"
+    },
+    "PC-MI-MOB": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-MI-DIS": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-MI-iOS": {
+        "click": "https://app.appsflyer.com/id1465265358?",
+        "imp": "https://impression.appsflyer.com/id1465265358?",
+        "nativeurl": "",
+        "appid": "1465265358"
+    },
+    "PC-MI-AND": {
+        "click": "https://app.appsflyer.com/uspa.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/uspa.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "uspa.pokerstars.casino"
+    },
+    "PC-PA-iOS": {
+        "click": "https://app.appsflyer.com/id1465265358?",
+        "imp": "https://impression.appsflyer.com/id1465265358?",
+        "nativeurl": "",
+        "appid": "1465265358"
+    },
+    "PC-PA-AND": {
+        "click": "https://app.appsflyer.com/uspa.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/uspa.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "uspa.pokerstars.casino"
+    },
+    "PC-PA-MOB": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-PA-DIS": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-NJ-iOS": {
+        "click": "https://app.appsflyer.com/id1465265358?",
+        "imp": "https://impression.appsflyer.com/id1465265358?",
+        "nativeurl": "",
+        "appid": "1465265358"
+    },
+    "PC-NJ-AND": {
+        "click": "https://app.appsflyer.com/uspa.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/uspa.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "uspa.pokerstars.casino"
+    },
+    "PC-NJ-MOB": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-NJ-DIS": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "C20M"
+    },
+    "PC-FR-DIS": {
+        "click": "https://amaya.onelink.me/uERi?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uERi"
+    },
+    "PC-MI-CTV": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "c2Om"
+    },
+    "PC-PA-CTV": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "c2Om"
+    },
+    "PC-NJ-CTV": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "c2Om"
+    },
+    "PC-US-DIS": {
+        "click": "https://amaya.onelink.me/c2Om?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "c2Om"
+    },
+    "PC-PT-DIS": {
+        "click": "https://amaya.onelink.me/uERi?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "uERi"
+    },
+    "PS-DE-MOB": {
+        "click": "https://amaya.onelink.me/M8fz?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "M8fz"
+    },
+    "PS-DE-DIS": {
+        "click": "https://amaya.onelink.me/M8fz?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "M8fz"
+    },
+    "PS-DE-iOS": {
+        "click": "https://app.appsflyer.com/id6444265562?",
+        "imp": "https://impression.appsflyer.com/id6444265562?",
+        "nativeurl": "",
+        "appid": "6444265562"
+    },
+    "PS-DE-AND": {
+        "click": "https://app.appsflyer.com/com.pokerstars.de?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "com.pokerstars.de"
+    },
+    "PC-PT-AND": {
+        "click": "https://app.appsflyer.com/pt.pokerstars.casino?",
+        "imp": "https://impression.appsflyer.com/pt.pokerstars.casino?",
+        "nativeurl": "",
+        "appid": "pt.pokerstars.casino"
+    },
+    "PC-PT-iOS": {
+        "click": "https://app.appsflyer.com/id1326099703?",
+        "imp": "https://impression.appsflyer.com/id1326099703?",
+        "nativeurl": "",
+        "appid": "1326099703"
+    },
+    "PC-SE-DIS": {
+        "click": "https://amaya.onelink.me/egJW?",
+        "imp": "",
+        "nativeurl": "",
+        "appid": "egJW"
+    }
+}
