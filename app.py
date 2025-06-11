@@ -8,6 +8,7 @@ import pandas as pd
 from datetime import datetime
 import os
 import json
+import urllib.parse
 from openai import OpenAI
 
 # Load OpenAI API key
@@ -17,6 +18,43 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 with open("networkindex.json") as f:
     raw_networkindex = json.load(f)
     network_index = raw_networkindex if isinstance(raw_networkindex, dict) else {}
+
+with open("appindex.json") as f:
+    raw_appindex = json.load(f)
+    app_index = raw_appindex if isinstance(raw_appindex, dict) else {}
+
+campaign_type = ["display", "paidsocial","affiliate"]
+def infer_campaign_type(text):
+    lower_text = text.lower()
+    if "affiliate" in lower_text:
+        return "affiliate"
+    elif "social" in lower_text:
+        return "paidsocial"
+    else:
+        return "display"
+
+
+# Safe index helper
+def safe_index(options, value, default=0):
+    try:
+        return options.index(value)
+    except ValueError:
+        return default
+
+# Brand, Region, Platform maps
+brand_map = {
+    "Pokerstars": "PS", "Full Tilt": "FT", "Pokerstars Play": "PPLAY", "Pokerstars Casino": "PC",
+    "FoxBet": "FXB", "SkyBet": "SB", "Sport": "SPORT", "Pokerstars Sports": "PSS",
+    "Masterbrand": "MB", "Pokerstars Dojo": "PSDJ", "Pokerstars News": "PSN"
+}
+region_map = {
+    "Canada": "CA", "France": "FR", "Germany": "DE", "Spain": "ES", "United Kingdom": "UK",
+    "European Union": "EU", "Brazil": "BR", "Denmark": "DK", "Romania": "RO",
+    "Ontario": "CAON", "Pennsylvania": "USPA", "New Jersey": "USNJ", "Michigan": "USMI"
+}
+platform_map = {
+    "iOS": "iOS", "Android": "AND", "Desktop": "DESK", "Mobile Web": "MOB", "All Devices": "DIS"
+}
 
 # Function schema for GPT
 function_schema = [
@@ -38,16 +76,15 @@ function_schema = [
                 "targeting": {"type": "string"},
                 "vertical": {"type": "string"},
                 "offer": {"type": "string"},
-                "ams_id": {"type": "string"},
-                "video_format": {"type": "string"},
+                "formats": {"type": "array", "items": {"type": "string"}},
                 "subtargeting": {"type": "string"},
                 "x_field": {"type": "string"},
                 "lp_url": {"type": "string"}
             },
             "required": [
                 "brand", "region", "platform", "campaign", "budget_code", "agency",
-                "buying_platform", "publisher", "publisher_subsite", "targeting", "vertical", "offer",
-                "ams_id", "video_format", "subtargeting", "x_field", "lp_url"
+                "buying_platform", "publisher", "publisher_subsite", "targeting", "vertical",
+                "offer", "formats", "subtargeting", "x_field", "lp_url"
             ]
         }
     }
@@ -108,8 +145,8 @@ def safe_index(options, value, default=0):
         return default
 
 # Suggest Fields Block
-st.markdown("### 🧠 Smart Campaign Field Suggestion")
-campaign_hint = st.text_input("Describe your campaign idea", key="campaign_hint", placeholder="e.g., Display campaign in CA for PS on Reddit")
+st.markdown("### 🧠 Smart Campaign Field Suggestion, get hints or paste Generate link for PS UK DIS STARSSEASON via TRADEDESK on TRADEDESK and RON, LP https://www.pokerstars.uk/poker/pages/stars-season/, offer GENERIC, vertical POKER, Targeting ALL, Format 320x50, 480x320, Sub-targeting R and X Field as X, Budget Code G, Agency TSG.")
+campaign_hint = st.text_input("Describe your campaign idea or simply copy paste this", key="campaign_hint", placeholder="e.g., Display campaign in CA for PS on Reddit")
 
 suggest_fields_schema = [
     {
@@ -165,13 +202,14 @@ if st.button("Suggest Fields") and campaign_hint:
         st.error(f"❌ Suggestion failed: {e}")
 
 
-# Generate AF links using appindex base + networkindex parameters
+# 📌 Generate AF links
+
 def generate_af_links(network_id, platform, parsed):
     warnings = []
     network_search_key = f"{parsed['agency']}{parsed['publisher']}"
     network_entry = network_index.get(network_search_key.upper())
     if not network_entry:
-        warnings.append(f"⚠️ No entry found for network_id '{network_id}' in networkindex.json")
+        warnings.append(f"⚠️ No entry found for network_id '{network_search_key}' in networkindex.json")
     platform_key = f"{parsed['brand']}-{parsed['region']}-{parsed['platform']}"
     app_entry = app_index.get(platform_key)
     if not app_entry:
@@ -180,101 +218,106 @@ def generate_af_links(network_id, platform, parsed):
 
     click_base = app_entry.get("click", "https://amaya.onelink.me/197923601")
     imp_base = app_entry.get("imp", "https://impression.amaya.com")
+    platform_key_click = platform.lower() + "click"
+    platform_key_imp = platform.lower() + "imp"
 
-    if not network_entry:
-        return {"click": click_base, "imp": imp_base}
+    if platform_key_click == "disclick":
+        platform_key_click = "andclick"
+        no_imp = True
 
-    platform_key_click = f"{platform.lower()}click"
-    platform_key_imp = f"{platform.lower()}imp"
-
-    click_template = network_entry.get(platform_key_click, "")
-    imp_template = network_entry.get(platform_key_imp, "")
+    click_template = network_entry.get(platform_key_click, "") if network_entry else ""
+    imp_template = network_entry.get(platform_key_imp, "") if network_entry else ""
 
     for key, val in parsed.items():
         if isinstance(val, str):
-            click_template = click_template.replace(f"{{{key}}}", val)
-            imp_template = imp_template.replace(f"{{{key}}}", val)
+            click_template = click_template.replace(f"{{{{{key}}}}}", val)
+            imp_template = imp_template.replace(f"{{{{{key}}}}}", val)
 
-    final_click = f"{click_base}{click_template}" if click_template else click_base
-    final_imp = f"{imp_base}{imp_template}" if imp_template else imp_base
+    encoded_lp = urllib.parse.quote(f"{parsed['lp_url']}?source={ams_id}&utm_medium=display&utm_source={parsed['publisher'].lower()}&utm_campaign={parsed['campaign'].lower()}&review=true") if parsed.get("lp_url") else ""
+    print(encoded_lp)
+    extra_params = f"&c={placement}&af_sub4={ams_id}"
+    if encoded_lp:
+        extra_params += f"&af_android_url={encoded_lp}&af_ios_url={encoded_lp}&af_web_dp={encoded_lp}"
 
-    for warning in warnings:
-        st.warning(warning)
+    final_click = f"{click_base}{click_template}{extra_params}" if click_template else f"{click_base}{extra_params}"
+    final_imp = f"{imp_base}{imp_template}{extra_params}" if imp_template else f"{imp_base}{extra_params}"
+
+    if no_imp == True: 
+        final_imp = ""
+    else: 
+        final_imp
+
+    for w in warnings:
+        st.warning(w)
 
     return {"click": final_click, "imp": final_imp}
 
-suggested = st.session_state.get("suggested_fields", {})
-st.markdown("### 🎛️ Auto-filled Campaign Input Form (Optional)")
-with st.expander("Click to open manual form"):
-    brand = st.selectbox("Brand", ["PS", "PC"], index=["PS", "PC"].index(suggested.get("brand", "PS")))
-    region = st.selectbox("Region", ["UK", "CA", "DE", "ES", "EU", "BR", "DK", "RO"], index=["UK", "CA", "DE", "ES", "EU", "BR", "DK", "RO"].index(suggested.get("region", "UK")))
-    platform = st.selectbox("Platform", ["iOS", "DIS", "AND", "MOB", "DESK"], index=["iOS", "DIS", "AND", "MOB", "DESK"].index(suggested.get("platform", "DIS")))
-    campaign = st.text_input("Campaign Name", suggested.get("campaign", "STARSSEASON"))
-    budget_code = st.selectbox("Budget Code", ["G", "TPP", "GVOD", "PAIDSOCIAL", "AFFILIATES"])
-    agency = st.selectbox("Agency", ["TSG", "CLEARPIER", "TAPPX", "MOBSUCCESS", "EKSMEDIA", "WEBMEDIAAGENCY", "KYPI"])
-    buying_platform = st.selectbox("Buying Platform", ["DIRECT", "DV360", "Mediamath"], index=["DIRECT", "DV360", "Mediamath"].index(suggested.get("buying_platform", "DV360")))
-    publisher = st.selectbox("Publisher", ["MOBSUCCESS", "REDDIT", "OGURY", "TEADS", "SPOTIFY", "SNAPCHAT", "FACEBOOK","YOUTUBE"], index=["MOBSUCCESS", "REDDIT", "OGURY", "TEADS", "SPOTIFY", "SNAPCHAT", "FACEBOOK","YOUTUBE"].index(suggested.get("publisher", "YOUTUBE")))
-    publisher_subsite = st.selectbox("Publisher's Sub-site", ["RON", "ROS", "ALL"])
-    targeting = st.selectbox("Targeting", ["ALL", "RON", "M1845"])
-    vertical = st.selectbox("Vertical", ["POKER", "CASINO"], index=["POKER", "CASINO"].index(suggested.get("vertical", "POKER")))
-    offer = st.selectbox("Offer", ["GENERIC", "NO", "BONUS"])
-    ams_id = st.text_input("AMS ID", "AMSID")
-    video_format = st.selectbox("Format", ["VOD6", "VOD15LAN", "VOD20LAN"])
-    subtargeting = st.selectbox("Sub-targeting", ["P", "E", "R"])
-    x_field = st.text_input("X Field", "X")
-    lp_url = st.text_input("Landing Page URL", "https://www.pokerstars.uk/poker/pages/stars-season/")
-
-    if st.button("Generate from Dropdowns"):
-        full_input = f"Generate link for {brand} {region} {platform} {campaign} via {buying_platform} on {publisher} and {publisher_subsite} with AMS ID {ams_id}, LP {lp_url}, offer {offer}, vertical {vertical}, Targeting {targeting}, Format {video_format}, Sub-targeting {subtargeting} and X Field as {x_field}, Budget Code {budget_code}, Agency {agency}."
-        st.session_state["dropdown_input"] = full_input
-
-
-# Main app logic
+# 🧠 Text area input
 st.title("🎯 Smarter Campaign Link Generator Chatbot")
-descriptions = st.text_area("Paste campaign description(s):", value=st.session_state.get("dropdown_input", ""), height=200)
+descriptions = st.text_area("Paste campaign description:", height=150)
+
 if st.button("Generate Links") and descriptions:
     rows = []
-    for line in descriptions.strip().split("\n"):
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4",
-                messages=[
-                    {"role": "system", "content": "Extract structured campaign parameters for link generation."},
-                    {"role": "user", "content": line}
-                ],
-                functions=function_schema,
-                function_call="auto"
-            )
-            args = response.choices[0].message.function_call.arguments
-            parsed = json.loads(args)
+    campaign_type = infer_campaign_type(descriptions)
 
-            # Placement code construction
-            placement = "-".join([
-                parsed["brand"], parsed["region"], parsed["platform"], parsed["campaign"],
-                parsed["budget_code"], parsed["agency"], parsed["buying_platform"], parsed["publisher"],
-                parsed["publisher_subsite"], parsed["targeting"], parsed["vertical"], parsed["offer"],
-                parsed["ams_id"], parsed["video_format"], parsed["subtargeting"], parsed["x_field"]
-            ])
+    amsid_path = "ams_ids_partitioned.json"
+    if os.path.exists(amsid_path):
+        with open(amsid_path) as f:
+            all_ams_data = json.load(f)
+            ams_data = all_ams_data.get(campaign_type, [])
+    else:
+        ams_data = []
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "Extract structured campaign parameters for link generation."},
+                {"role": "user", "content": descriptions.strip()}
+            ],
+            functions=function_schema,
+            function_call="auto"
+        )
+        args = response.choices[0].message.function_call.arguments
+        parsed = json.loads(args)
+       
+        # Fetch unused AMS IDs from json list
+        available_ams = [entry for entry in ams_data if entry.get("used") is False]
+        print(available_ams)
+        print(parsed["formats"])
+        if len(available_ams) < len(parsed["formats"]):
+            st.error("Not enough unused AMS IDs available.")
+        else:
+            for fmt in parsed["formats"]:
+                ams_entry = available_ams.pop(0)
+                ams_id = ams_entry["id"]
+                ams_entry["used"] = True
 
-            click_tag = f"{parsed['lp_url']}?source={parsed['ams_id']}&utm_medium=display&utm_source={parsed['publisher'].lower()}&utm_campaign={parsed['campaign'].lower()}&review=true"
+                placement = "-".join([
+                    parsed["brand"], parsed["region"], parsed["platform"], parsed["campaign"],
+                    parsed["budget_code"], parsed["agency"], parsed["buying_platform"], parsed["publisher"],
+                    parsed["publisher_subsite"], parsed["targeting"], parsed["vertical"], parsed["offer"],
+                    ams_id, fmt, parsed["subtargeting"], parsed["x_field"]
+                ])
 
-            af_links = generate_af_links(parsed["buying_platform"], parsed["platform"], parsed)
+                click_tag = f"{parsed['lp_url']}?source={ams_id}&utm_medium=display&utm_source={parsed['publisher'].lower()}&utm_campaign={parsed['campaign'].lower()}&review=true"
 
-            rows.append({
-                "Input": line,
-                "Placement Code": placement,
-                "Click Tag": click_tag,
-                "Appsflyer Click": af_links["click"],
-                "Appsflyer IMP": af_links["imp"]
-            })
-        except Exception as e:
-            rows.append({
-                "Input": line,
-                "Placement Code": "ERROR",
-                "Click Tag": str(e),
-                "Appsflyer Click": "",
-                "Appsflyer IMP": ""
-            })
+                af_links = generate_af_links(parsed["buying_platform"], parsed["platform"], {
+                    **parsed, "ams_id": ams_id, "video_format": fmt
+                })
+
+                rows.append({
+                    "Placement Code": placement,
+                    "Click Tag": click_tag,
+                    "Appsflyer Click": af_links["click"],
+                    "Appsflyer IMP": af_links["imp"]
+                })
+
+            # Save updated AMS ID list
+            with open(amsid_path, "w") as f:
+                json.dump(ams_data, f, indent=2)
+
+    except Exception as e:
+        rows.append({"Placement Code": "ERROR", "Click Tag": str(e), "Appsflyer Click": "", "Appsflyer IMP": ""})
 
     df = pd.DataFrame(rows)
     st.dataframe(df, use_container_width=True)
