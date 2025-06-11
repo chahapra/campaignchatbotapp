@@ -3718,5 +3718,11 @@
         "iosimp": "af_prt=tappx&af_viewthrough_lookback=7d",
         "andclick": "af_prt=tappx&pid=tappx_int&af_click_lookback=7d",
         "andimp": "af_prt=tappx&af_viewthrough_lookback=7d"
+    },
+    "TSGTRADEDESK":{
+        "iosclick":"pid=thetradedesk_int&af_siteid=%%TTD_SITE%%&af_c_id=%%TTD_CAMPAIGNID%%&af_adset_id=%%TTD_ADGROUPID%%&af_ad_id=%%TTD_CREATIVEID%%&af_click_lookback=7d&clickid=%%TTD_IMPRESSIONID%%&advertising_id=%%TTD_DEVICEID%%&android_id=%%TTD_DEVICEID%%", 
+        "iosimp":"pid=thetradedesk_int&af_siteid=%%TTD_SITE%%&af_c_id=%%TTD_CAMPAIGNID%%&af_adset_id=%%TTD_ADGROUPID%%&af_ad_id=%%TTD_CREATIVEID%%&af_viewthrough_lookback=24h&clickid=%%TTD_IMPRESSIONID%%&advertising_id=%%TTD_DEVICEID%%&android_id=%%TTD_DEVICEID%%", 
+        "andclick":"pid=thetradedesk_int&af_siteid=%%TTD_SITE%%&af_c_id=%%TTD_CAMPAIGNID%%&af_adset_id=%%TTD_ADGROUPID%%&af_ad_id=%%TTD_CREATIVEID%%&af_click_lookback=7d&clickid=%%TTD_IMPRESSIONID%%&advertising_id=%%TTD_DEVICEID%%&android_id=%%TTD_DEVICEID%%", 
+        "andimp":"pid=thetradedesk_int&af_siteid=%%TTD_SITE%%&af_c_id=%%TTD_CAMPAIGNID%%&af_adset_id=%%TTD_ADGROUPID%%&af_ad_id=%%TTD_CREATIVEID%%&af_viewthrough_lookback=24h&clickid=%%TTD_IMPRESSIONID%%&advertising_id=%%TTD_DEVICEID%%&android_id=%%TTD_DEVICEID%%"
     }
 }
